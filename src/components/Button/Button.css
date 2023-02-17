@@ -1,0 +1,24 @@
+.orange-button {
+    border: 1px solid #FD7A43;
+    color: #FD7A43;
+}
+.orange-button:hover {
+    background-color: #FD7A43;
+}
+
+.purple-button {
+    border: 1px solid #6F51EC;
+    color: #6F51EC;
+}
+.purple-button:hover {
+    background-color: #6F51EC;
+}
+
+.custom-button {
+    background-color: white;
+    border-radius: 3px;
+    padding: 8px 30px 8px 30px;
+}
+.custom-button:hover {
+    color: white;
+}

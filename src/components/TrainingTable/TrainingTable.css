@@ -1,0 +1,25 @@
+.training-list {
+    margin-top: 3em;
+    width: 70%;
+    border-collapse: collapse;
+    border-radius: 0.5em 0.5em 0 0;
+    overflow: hidden;
+    background-color: white;
+}
+thead {
+    background: linear-gradient(90deg, rgb(253, 122, 67) 39%, rgba(252,185,133,1) 100%);
+}
+th {
+    padding: 0.8em;
+}
+tbody td {
+    padding: 20px;
+}
+tbody tr:nth-child(even) {
+    background-color: #f3f3f3;
+}
+
+.action-container {
+    display: flex;
+    justify-content: center;
+}
